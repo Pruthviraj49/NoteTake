@@ -1,2 +1,2 @@
-# Sociogether
+# Collab
 Inheritance Project
